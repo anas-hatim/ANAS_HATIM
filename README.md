@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dev.anashatim@gmail.com**
 
-- ⚡ Fun fact **Developers are like magicians who can turn coffee into code! ☕✨**
+- ⚡ Fun fact **Developers are like magicians who can turn coffee into code! ☕✨* *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
